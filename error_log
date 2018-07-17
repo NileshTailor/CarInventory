@@ -1,0 +1,3 @@
+[18-Jul-2018 01:57:29 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nileshta/public_html/CarInventory/config.php on line 8
+[18-Jul-2018 02:28:12 Asia/Calcutta] PHP Notice:  Undefined index: totalcount in /home/nileshta/public_html/CarInventory/index.php on line 47
+[18-Jul-2018 02:28:12 Asia/Calcutta] PHP Notice:  Undefined index: totalcount in /home/nileshta/public_html/CarInventory/index.php on line 47
